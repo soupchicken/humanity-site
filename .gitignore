@@ -1,0 +1,15 @@
+# Public
+build/*
+
+#OSX File
+.DS_Store
+
+# Intellij files
+.idea
+
+# Logs
+logs
+*.log
+
+# Dependency directory
+node_modules
